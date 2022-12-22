@@ -1,0 +1,3 @@
+Much of this course had largely *basic* assignments
+
+Please refer to https://github.com/DavidRaschidLabiakhTrue/Cloud-Renderer-in-CPP for the actual highlight of this course.
