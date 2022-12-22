@@ -1,0 +1,14 @@
+{
+  "name": "b9be2b69bb54f2e8",
+  "main": "b9be2b69bb54f2e8@522.js",
+  "version": "522.0.0",
+  "homepage": "https://observablehq.com/d/b9be2b69bb54f2e8",
+  "author": {
+    "name": "David",
+    "url": "https://observablehq.com/@davidraschidlabiakhtrue"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
